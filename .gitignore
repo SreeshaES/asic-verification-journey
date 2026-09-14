@@ -1,0 +1,23 @@
+cat > .gitignore <<'EOF'
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+
+# Cocotb / simulation outputs
+sim_build/
+*.fst
+*.vcd
+*.fsdb
+*.wlf
+*.log
+results.xml
+
+# Simulator generated files
+*.vvp
+*.vcd
+EOF
