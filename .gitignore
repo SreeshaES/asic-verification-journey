@@ -25,3 +25,7 @@ EOF
 # Editor temporary files
 *.swp
 *.swo
+
+# Verilog simulation outputs
+sim_buffer
+*.vcd
