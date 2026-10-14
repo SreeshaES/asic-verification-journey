@@ -21,3 +21,7 @@ results.xml
 *.vvp
 *.vcd
 EOF
+
+# Editor temporary files
+*.swp
+*.swo
