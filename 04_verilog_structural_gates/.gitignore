@@ -1,0 +1,12 @@
+# Simulation executables
+sim_buffer
+sim_bidirectional
+sim_minority
+
+# Simulation outputs
+*.vcd
+simulation.log
+
+# Python cache
+__pycache__/
+*.pyc
