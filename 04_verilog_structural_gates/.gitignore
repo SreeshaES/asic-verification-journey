@@ -3,6 +3,7 @@ sim_buffer
 sim_bidirectional
 sim_minority
 sim_even_parity 
+sim_minterm_function
 
 # Simulation outputs
 *.vcd
