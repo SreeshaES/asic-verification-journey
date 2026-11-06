@@ -4,6 +4,7 @@ sim_bidirectional
 sim_minority
 sim_even_parity 
 sim_minterm_function
+sim_circuit_schematic
 
 # Simulation outputs
 *.vcd
